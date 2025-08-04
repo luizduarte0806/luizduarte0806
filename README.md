@@ -32,15 +32,6 @@ My passion lies in building efficient, scalable applications with clean and main
 - Proficient in Liquid, along with HTML, CSS, JavaScript, and JSON.
 - Experienced in theme customization
 
-**Proficient in React and Vue**
-- Well-versed in building mobile responsive and visual appealing front-end using Material UI, Tailwind CSS, Bootstrap
-- Familiar with Next. Nuxt, Vuex, Qusar
-- Good experience in Redux, Saga, Thunk, Sequelize, Knex
-
-**Experienced in API Integration**
-
-**Experienced in Payment Gateway Integration**
-
 **Database**
 MySQL, MongoDB, GraphQL, PostgreSQL
 
