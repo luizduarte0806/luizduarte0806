@@ -1,4 +1,4 @@
-I am a Senior Web Developer with over 10 years of experience. 
+I am a Senior Web Developer with over 5 years of experience. 
 As a Full Stack Developer, I have an expertise of Front & Back End development.
 My passion lies in building efficient, scalable applications with clean and maintainable code.
 
